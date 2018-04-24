@@ -30,77 +30,77 @@
     </data>
     <data>
       <name>Jeffery Barry</name>
-      <jobtitle>English Teacher</jobtitle>
+      <job_title>English Teacher</job_title>
       <salary>$46,450</salary>
       <location>San Francisco</location>
       <company>Gateway High School</company>
     </data>
     <data>
       <name>Karina Olivera</name>
-      <jobtitle>Business Operations Analyst</jobtitle>
+      <job_title>Business Operations Analyst</job_title>
       <salary>$120,000</salary>
       <location>Seattle</location>
       <company>Amazon</company>
     </data>
     <data>
       <name>Christopher Olszanski</name>
-      <jobtitle>Financial Analyst</jobtitle>
+      <job_title>Financial Analyst</job_title>
       <salary>$83,060</salary>
       <location>Seattle</location>
       <company>PwC</company>
     </data>
     <data>
       <name>Terry Normand</name>
-      <jobtitle>Human Resource Analyst</jobtitle>
+      <job_title>Human Resource Analyst</job_title>
       <salary>$83,500</salary>
       <location>Seattle</location>
       <company>Swedish Medical Center</company>
     </data>
     <data>
       <name>Jason Kim</name>
-      <jobtitle>Software Developer</jobtitle>
+      <job_title>Software Developer</job_title>
       <salary>$205,500</salary>
       <location>San Francisco</location>
       <company>Facebook</company>
     </data>
     <data>
       <name>Tiffany Myers</name>
-      <jobtitle>Marketing Designer</jobtitle>
+      <job_title>Marketing Designer</job_title>
       <salary>$167,500</salary>
       <location>San Francisco</location>
       <company>Facebook</company>
     </data>
     <data>
       <name>Sam Murray</name>
-      <jobtitle>Sales Assistant</jobtitle>
+      <job_title>Sales Assistant</job_title>
       <salary>$67,500</salary>
       <location>San Francisco</location>
       <company>Sephora</company>
     </data>
     <data>
       <name>Louis Morales</name>
-      <jobtitle>Police Officer</jobtitle>
+      <job_title>Police Officer</job_title>
       <salary>$62,900</salary>
       <location>Seattle</location>
       <company>City of Seattle</company>
     </data>
     <data>
       <name>Nicholas Moore</name>
-      <jobtitle>Financial Analyst</jobtitle>
+      <job_title>Financial Analyst</job_title>
       <salary>$103,600</salary>
       <location>San Francisco</location>
       <company>Google</company>
     </data>
     <data>
       <name>Dilan Huang</name>
-      <jobtitle>Software Engineer</jobtitle>
+      <job_title>Software Engineer</job_title>
       <salary>$140,560</salary>
       <location>San Francisco</location>
       <company>Indeed</company>
     </data>
     <data>
       <name>Ben Orenstein</name>
-      <jobtitle>Data Analyst</jobtitle>
+      <job_title>Data Analyst</job_title>
       <salary>$124,000</salary>
       <location>Seattle</location>
       <company>Zillow</company>
