@@ -18,8 +18,8 @@
       "name": "Diana Bailey",
       "job title": "Sales Engineer",
       "salary": "$86,000",
-      "location": "Boeing",
-      "company": "1562"
+      "location": "Seattle",
+      "company": "Boeing"
     },
     {
       "name": "Erika Arroyo",
