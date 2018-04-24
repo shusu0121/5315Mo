@@ -2,14 +2,14 @@
   <employees>
     <data>
       <name>Olivia Adams</name>
-      <jobtitle>Library Associate</jobtitle>
+      <job title>Library Associate</job title>
       <salary>$55,750</salary>
       <location>Seattle</location>
       <company>Seattle Public Library</company>
     </data>
     <data>
       <name>Sheema Ali</name>
-      <jobtitle>Product Manager</jobtitle>
+      <job_title>Product Manager</job_title>
       <salary>$185,000</salary>
       <location>San Francisco</location>
       <company>Google</company>
