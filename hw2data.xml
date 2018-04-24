@@ -2,7 +2,7 @@
   <employees>
     <data>
       <name>Olivia Adams</name>
-      <job title>Library Associate</job title>
+      <job_title>Library Associate</job_title>
       <salary>$55,750</salary>
       <location>Seattle</location>
       <company>Seattle Public Library</company>
@@ -16,14 +16,14 @@
     </data>
     <data>
       <name>Diana Bailey</name>
-      <jobtitle>Sales Engineer</jobtitle>
+      <job_title>Sales Engineer</job_title>
       <salary>$86,000</salary>
       <location>Seattle</location>
       <company>Boeing</company>
     </data>
     <data>
       <name>Erika Arroyo</name>
-      <jobtitle>Senior Accountant</jobtitle>
+      <job_title>Senior Accountant</job_title>
       <salary>$72,700</salary>
       <location>Seattle</location>
       <company>KPMG</company>
